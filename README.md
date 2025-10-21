@@ -7,37 +7,35 @@ This page highlights my projects combining **Digital Marketing**, **Data Analyti
 
 ## 🚀 Featured Projects  
 
-<div class="projects-grid">
+### 🧭 Marketing Analytics Dashboard
+<img src="assets/img/analytics-dashboard.webp" width="600" alt="Marketing Analytics Dashboard preview">
 
-  <a class="project-card" href="https://github.com/Wu-7in/marketing-analytics-dashboard" target="_blank">
-    <img src="/assets/img/analytics-dashboard.webp" alt="Marketing Analytics Dashboard preview">
-    <div class="project-body">
-      <h3>📊 Marketing Analytics Dashboard</h3>
-      <p>GA4 + Ads API → CTR / CPA / ROAS 监控与洞察，支持周报输出与投放优化。</p>
-      <p class="stack">Python · GA4 API · BigQuery · Matplotlib</p>
-    </div>
-  </a>
+**Goal:** Track and visualize Google Ads and Meta Ads performance metrics (CTR, CPA, ROAS).  
+**Method:** Automated data collection via GA4 & Ads API, processed in Python dashboards.  
+**Result:** Enabled campaign insights and +15% improvement in CTR.  
+**Tools:** Python · GA4 API · BigQuery · Matplotlib  
+🔗 [View Repository →](https://github.com/Wu-7in/marketing-analytics-dashboard)
 
-  <a class="project-card" href="https://github.com/Wu-7in/ai-email-generator" target="_blank">
-    <img src="/assets/img/ai-email-generator.webp" alt="AI Email Generator preview">
-    <div class="project-body">
-      <h3>🤖 AI Email Generator</h3>
-      <p>基于 Prompt 的 Mailchimp 邮件生成 + A/B 测试工作流，Open Rate +12%。</p>
-      <p class="stack">Python · OpenAI API · Mailchimp</p>
-    </div>
-  </a>
+---
 
-  <a class="project-card" href="https://github.com/Wu-7in/bmi-calculator" target="_blank">
-    <img src="/assets/img/bmi-calculator.webp" alt="BMI Calculator preview">
-    <div class="project-body">
-      <h3>💻 BMI Calculator (Demo)</h3>
-      <p>简洁交互的小型 Web 工具，展示前端与表单交互基础。</p>
-      <p class="stack">HTML · CSS · JavaScript</p>
-    </div>
-  </a>
+### 🤖 AI Email Generator
+<img src="assets/img/ai-email-generator.webp" width="600" alt="AI Email Generator preview">
 
-</div>
+**Goal:** Automate Mailchimp campaign content generation using ChatGPT API.  
+**Method:** Designed a prompt-based workflow and tested A/B variations for open rates.  
+**Result:** +12% higher open rate and improved content efficiency.  
+**Tools:** Python · OpenAI API · Mailchimp  
+🔗 [View Repository →](https://github.com/Wu-7in/ai-email-generator)
 
+---
+
+### 🧮 BMI Calculator (Web Demo)
+<img src="assets/img/bmi-calculator.webp" width="600" alt="BMI Calculator preview">
+
+**Goal:** Build a simple, interactive web tool to demonstrate basic web design skills.  
+**Tech Stack:** HTML · CSS · JavaScript  
+🔗 [View Demo →](https://github.com/Wu-7in/bmi-calculator)
+ 
 ---
 
 ## 🧠 Skills Overview  
