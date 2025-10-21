@@ -3,3 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Qin Wu — Digital Marketing & AI Portfolio
 description: Data-driven marketing, analytics, and AI automation projects
+show_downloads: false
+theme: jekyll-theme-cayman
+header_image: banner.png
