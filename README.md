@@ -60,6 +60,3 @@ This page highlights my projects combining **Digital Marketing**, **Data Analyti
 
 <p align="center"><em>✨ Turning marketing data & AI into actionable business growth ✨</em></p>
 
----
-
-⭐ *“Turning marketing data and AI into actionable business growth.”*
